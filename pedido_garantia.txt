@@ -8,6 +8,7 @@ Evita parágrafos demasiado longos.
 Não uses listas com travessões.
 Não incluas despedida nem assinatura.
 Trata sempre a pessoa pelo primeiro e último nome, quando disponíveis.
+Inicia a resposta com “Olá”, “Bom dia” ou “Boa tarde”, conforme a hora do dia em que a resposta for enviada.
 Usa Sr. ou Sra., ou a forma de tratamento indicada na assinatura do email.
 Evita frases genéricas de empatia ou lamento, como “compreendemos a frustração” ou “lamentamos o inconveniente”. Mantém a resposta focada no problema, na explicação e na solução.
 
