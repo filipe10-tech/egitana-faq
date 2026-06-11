@@ -1,0 +1,11 @@
+- Pedido de Devolução: cliente quer devolver um produto já recebido (ex: "quero devolver", "não quero ficar com o produto")
+- Pedido de Troca: cliente quer trocar por outro produto ou modelo diferente (ex: "posso trocar por outro?")
+- Pedido de Garantia: produto com defeito dentro do período de garantia (ex: "avariou", "não funciona", "deixou de ligar")
+- Encomenda não recebida: cliente ainda não recebeu a encomenda ou está com atraso (ex: "ainda não chegou", "onde está a minha encomenda")
+- Orçamentos: pedido de preço, disponibilidade ou condições antes de comprar (ex: "quanto custa", "têm em stock", "qual o prazo de entrega para França")
+- Venda: cliente quer informações para comprar ou está indeciso entre produtos (ex: "qual me recomenda", "este serve para o meu caso", "quero comprar uma guitarra para iniciante", "qual a diferença entre este e aquele modelo")
+- Dúvidas: questões técnicas, condições comerciais ou políticas da loja — sem intenção clara de compra (ex: "como funciona a política de trocas", "que cabo preciso para ligar isto", "têm loja física", "quais os métodos de pagamento")
+- Reclamações: cliente insatisfeito com o serviço, atendimento ou experiência (ex: "fui mal atendido", "estou muito insatisfeito", "isto é inaceitável")
+- Dificuldades com o Produto: cliente tem dificuldade a usar o produto mas não reporta defeito (ex: "não consigo configurar", "como se liga", "não percebo como funciona")
+- Outros: email que não é de um cliente final — patrocínios, propostas de fornecedores, relatórios automáticos de serviços (Stripe, UPS, etc.), newsletters B2B
+- Por Classificar: não se encaixa claramente em nenhuma categoria acima
