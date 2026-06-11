@@ -459,6 +459,8 @@ Quando a situação exigir análise técnica ou decisão comercial, encaminhar p
 
 A resposta final deve estar pronta para ser enviada diretamente ao cliente por email.
 
-Não pedir marca e modelo exato da coluna.
+Não pedir marca e modelo exato do produto.
 
 Não pedir número de série do equipamento.
+
+Não pedir email.
