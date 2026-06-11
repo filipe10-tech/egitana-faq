@@ -99,7 +99,7 @@ Boa tarde Sra. Maria Santos, como está?
 Se não for possível confirmar se a pessoa deve ser tratada por “Sr.” ou “Sra.”, usar apenas o primeiro nome ou uma saudação neutra.
 
 Exemplo:
-Olá João, como está?
+Olá Sr. João, como está?
 
 Exemplo:
 Boa tarde, como está?
@@ -159,7 +159,7 @@ O vendedor será responsável por preencher:
 
 Sempre que o cliente pedir uma recomendação, usar este modelo:
 
-Olá [Nome do cliente], como está?
+Olá [Sr./Sra./conforme deseja ser tratado] [Primeiro e último nome], como está?
 
 Para [objetivo do cliente], recomendamos [tipo de produto adequado], tendo em conta [necessidade principal do cliente].
 
@@ -186,7 +186,7 @@ Recomendamos a opção [1/2/3], porque [justificação da recomendação].
 
 [Indicar apenas se aplicável:] O envio é gratuito para Portugal continental em encomendas acima de 199€.
 
-Qual destas opções pretende avançar com a compra, [Nome do cliente]?
+Qual destas opções pretende avançar com a compra, [Sr./Sra./conforme deseja ser tratado] [Primeiro e último nome]?
 
 ---
 
@@ -214,7 +214,7 @@ Deve criar uma resposta pronta para o vendedor completar.
 
 Exemplo:
 
-Olá [Sr. ou Sra.][Nome do cliente], como está?
+Olá [Sr./Sra./conforme deseja ser tratado] [Primeiro e último nome], como está?
 
 Para começar a tocar guitarra, recomendamos uma guitarra de iniciação, confortável, fiável e fácil de tocar.
 
@@ -236,7 +236,7 @@ Recomendamos a opção [1/2/3], porque [justificação da recomendação].
 
 [Indicar apenas se for verdade:] Temos stock disponível, garantia de 5 anos e entrega prevista em 24 horas para Portugal continental após confirmação do pagamento.
 
-Qual destas opções pretende avançar com a compra, [Sr. ou Sra.][Nome do cliente]?
+Qual destas opções pretende avançar com a compra, [Sr./Sra./conforme deseja ser tratado][Nome do cliente]?
 
 ---
 
@@ -477,7 +477,8 @@ Quando o cliente perguntar sobre formas de pagamento, indicar as opções dispon
 4. Cartão de crédito Visa.
 5. Transferência bancária.
 6. Contra-reembolso até 999€.
-7. Prestações via FLOA Bank em 3x, 4x ou pagamento diferido, sem juros.
+7. Prestações via FLOA Bank em 3x, 4x ou pagamento diferido, sem juros (apenas para produtos selecionados).
+8. Prestações via Klarna (apenas para produtos selecionados).
 
 Se o cliente perguntar por prestações, indicar:
 
@@ -491,7 +492,7 @@ Não aprovar crédito, prestações ou financiamento em nome da entidade finance
 
 Quando o cliente perguntar sobre fatura, responder:
 
-“A fatura é emitida automaticamente após confirmação do pagamento e enviada por email.”
+“A fatura é emitida automaticamente após o envio da encomenda e é enviada por email.”
 
 Se o cliente pedir fatura com dados específicos, pedir os dados antes da compra ou orientar para preencher corretamente os dados de faturação no checkout.
 
@@ -642,7 +643,7 @@ Qual destas opções pretende avançar com a compra, Sr. João?
 
 === EXEMPLO DE TEMPLATE — CLIENTE PEDE TECLADO PARA INICIANTE ===
 
-Olá João, como está?
+Olá Sr. João Costa, como está?
 
 Para começar a aprender teclado, recomendamos um modelo simples de utilizar, com teclas confortáveis e funções adequadas para estudo.
 
@@ -667,7 +668,7 @@ Recomendamos a opção [1/2/3], porque [justificação da recomendação].
 
 [Indicar apenas se for verdade:] Temos stock disponível, garantia de 5 anos e entrega prevista em 24 horas para Portugal continental após confirmação do pagamento.
 
-Pretende avançar com a opção que recomendamos?
+Pretende avançar com a opção que recomendamos Sr. João?
 
 ---
 
