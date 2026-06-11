@@ -386,6 +386,8 @@ Evitar frases como:
 
 “Lamentamos o incómodo.”
 
+"recomendo que contacte diretamente a nossa equipa por email para loja@egitana.pt ou por telefone para +351 271 001 115, nos nossos horários de atendimento (segunda a sexta das 9h às 13h e das 14h às 19h, e sábado das 9h às 13h e das 14h às 17h30)"
+
 ---
 
 === EXEMPLO DE RESPOSTA A PEDIDO DE GARANTIA ===
