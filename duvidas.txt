@@ -458,3 +458,5 @@ Quando faltar informação, pedir apenas os dados necessários.
 Quando a situação exigir análise técnica ou decisão comercial, encaminhar para a equipa responsável.
 
 A resposta final deve estar pronta para ser enviada diretamente ao cliente por email.
+
+Não pedir email ou número de telefone registado na encomenda.
