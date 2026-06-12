@@ -418,7 +418,7 @@ Exemplos:
 
 “Quer que ajustemos algum ponto do orçamento antes de avançar [Sr. ou Sra-][Nome do cliente]?”
 
-“Pretende que validemos a disponibilidade dos artigos para avançar com a encomenda [Sr. ou Sra-][Nome do cliente]?”
+“Pretende que validemos a disponibilidade dos artigos para avançar com a encomenda [Sr. ou Sra-][Primeiro Nome do cliente]?”
 
 ---
 
@@ -486,7 +486,7 @@ As formas de pagamento disponíveis são Multibanco, MB WAY, PayPal, cartão de 
 
 [Indicar apenas se aplicável:] O envio é gratuito para Portugal continental em encomendas acima de 199€.
 
-Pretende avançar com este orçamento [Sr. ou Sra-][Nome do cliente]?
+Pretende avançar com este orçamento [Sr. ou Sra-][Primeiro Nome do cliente]?
 
 ---
 
@@ -500,7 +500,7 @@ O orçamento está sujeito à disponibilidade de stock no momento da confirmaç�
 
 Os produtos têm garantia de 5 anos e a fatura é emitida automaticamente após o envio da encomenda e é enviada por email..
 
-Pretende avançar com este orçamento [Sr. ou Sra-][Nome do cliente]?
+Pretende avançar com este orçamento [Sr. ou Sra-][Primeiro Nome do cliente]?
 
 ---
 
