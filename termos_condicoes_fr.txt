@@ -848,6 +848,30 @@ Si l’un de ces signes est présent, l’IA doit éviter de mentionner “5 ans
 
 ---
 
+=== TVA INTRACOMMUNAUTAIRE ===
+
+Lorsque le client pose une question concernant l’exonération de TVA dans le cadre d’un achat intracommunautaire, l’informer que l’exonération pourra être appliquée si le numéro fiscal/CIF est validé dans le système VIES.
+
+Le site détecte automatiquement si le CIF/NIF intracommunautaire est validé dans VIES.
+
+Si le numéro est validé, la TVA est automatiquement retirée du montant de l’achat lors du processus de checkout.
+
+Si la TVA n’est pas retirée, le client doit vérifier que les données saisies sont correctes et que le numéro fiscal/CIF est valide dans VIES.
+
+L’IA ne doit pas garantir l’exonération de TVA sans validation dans VIES.
+
+=== MODÈLE DE RÉPONSE TVA INTRACOMMUNAUTAIRE ===
+
+Bonjour [M./Mme/comment le client souhaite être appelé] [Nom du client],
+
+Pour les achats intracommunautaires, l’exonération de TVA peut être appliquée lorsque le CIF/NIF intracommunautaire est validé dans le système VIES.
+
+Notre site vérifie automatiquement cette validation pendant le processus d’achat. Si le CIF/NIF est valide dans VIES, la TVA est automatiquement retirée du montant de la commande lors du checkout.
+
+Si la TVA n’est pas retirée, nous vous recommandons de vérifier que les données saisies sont correctes et que le numéro fiscal est valide dans VIES.
+
+---
+
 === RÈGLE FINALE ===
 
 Ne jamais mentionner automatiquement “5 ans de garantie” lorsqu’il existe une indication d’achat professionnel, institutionnel ou de facturation à une personne morale.
