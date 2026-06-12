@@ -797,3 +797,62 @@ Les obligations découlant du Contrat pour Egitana Musical, Lda. seront réputé
 
 Egitana Musical, Inc. mettra en œuvre tous les moyens raisonnables pour mettre fin aux Cas de Force Majeure ou pour trouver une solution lui permettant de remplir ses obligations contractuelles malgré les Cas de Force Majeure.
 
+=== RÈGLE SUR LA GARANTIE — CLIENTS PARTICULIERS ET ENTREPRISES ===
+
+L’IA ne doit mentionner “5 ans de garantie” que lorsque le client semble être un consommateur final particulier.
+
+Si le client semble être une entreprise, une institution, une école, une association, une église, une entité publique, un revendeur ou toute autre personne morale, l’IA ne doit pas mentionner automatiquement les 5 ans de garantie.
+
+Elle ne doit pas non plus mentionner les 5 ans de garantie lorsque le client indique un numéro fiscal d’entreprise ou lorsqu’il existe des signes que l’achat sera facturé à une entreprise.
+
+Dans ces cas, s’il est nécessaire de parler de garantie, utiliser une formulation neutre :
+
+“Les produits bénéficient d’une garantie selon les conditions applicables à la vente et au type de client.”
+
+Ou :
+
+“La garantie sera appliquée conformément au type de client et aux données de facturation.”
+
+Si le client demande directement des informations sur la garantie et qu’il s’agit d’une entreprise ou d’une entité, indiquer :
+
+“Pour les achats effectués par des entreprises ou des institutions, la période de garantie applicable est de 1 an.”
+
+---
+
+=== COMMENT DÉTECTER UN CLIENT ENTREPRISE OU UNE ENTITÉ ===
+
+Considérer que le client peut être une entreprise ou une entité lorsque l’email contient des références telles que :
+
+1. Entreprise.
+2. Société.
+3. SARL.
+4. SA.
+5. SAS.
+6. Numéro fiscal d’entreprise.
+7. École.
+8. Conservatoire.
+9. Église.
+10. Association.
+11. Mairie.
+12. Commune.
+13. Institution.
+14. Fondation.
+15. Organisme public.
+16. Municipalité.
+17. Université.
+18. Revendeur.
+19. Service achats.
+20. Demande de devis pour une entité.
+
+Si l’un de ces signes est présent, l’IA doit éviter de mentionner “5 ans de garantie”, sauf confirmation par l’équipe que cela s’applique.
+
+---
+
+=== RÈGLE FINALE ===
+
+Ne jamais mentionner automatiquement “5 ans de garantie” lorsqu’il existe une indication d’achat professionnel, institutionnel ou de facturation à une personne morale.
+
+Pour les clients particuliers, l’IA peut mentionner “5 ans de garantie”, sauf exceptions prévues dans les conditions générales.
+
+Pour les entreprises ou institutions, mentionner uniquement “1 an de garantie” si le client le demande directement ou si cette information est nécessaire pour répondre à la demande.
+
