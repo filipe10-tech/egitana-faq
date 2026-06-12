@@ -197,17 +197,22 @@ Usar “Pedido de Garantia” quando o cliente afirma que o produto está avaria
 
 Usar esta categoria quando o email não é de um cliente final ou não corresponde a um pedido normal de apoio ao cliente.
 
+Também usar esta categoria quando o email for enviado por técnicos, serviços técnicos autorizados, marcas, distribuidores ou fornecedores, mesmo que esteja relacionado com garantias, reparações, orçamentos técnicos, peças, análises ou processos em curso.
+
 Exemplos:
 
-1. Propostas de fornecedores.
-2. Pedidos de parceria.
-3. Pedidos de patrocínio.
-4. Newsletters B2B.
-5. Relatórios automáticos de serviços.
-6. Notificações automáticas da Stripe, UPS, transportadoras ou plataformas externas.
-7. Contactos comerciais que não são clientes finais.
-8. Candidaturas espontâneas.
-9. Emails institucionais sem pedido de cliente.
+Propostas de fornecedores.
+Pedidos de parceria.
+Pedidos de patrocínio.
+Newsletters B2B.
+Relatórios automáticos de serviços.
+Notificações automáticas da Stripe, UPS, transportadoras ou plataformas externas.
+Contactos comerciais que não são clientes finais.
+Candidaturas espontâneas.
+Emails institucionais sem pedido de cliente.
+Emails enviados por técnicos das marcas.
+Emails enviados por serviços técnicos autorizados.
+Emails de marcas, distribuidores ou fornecedores sobre processos de garantia, reparação, peças ou orçamentos técnicos.
 
 Não usar “Outros” quando o email for de um cliente final e se enquadrar numa das categorias anteriores.
 
