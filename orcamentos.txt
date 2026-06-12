@@ -242,7 +242,7 @@ Não aprovar crédito, prestações ou financiamento em nome da entidade finance
 
 Quando for útil indicar informação sobre fatura, usar:
 
-“A fatura é emitida automaticamente após confirmação do pagamento e enviada por email.”
+“A fatura é emitida automaticamente após o envio da encomenda e é enviada por email.”
 
 Se o cliente pedir fatura com dados específicos, orientar para preencher corretamente os dados de faturação antes da confirmação da encomenda.
 
@@ -438,7 +438,7 @@ Usar frases como:
 
 “Os produtos têm garantia de 5 anos.”
 
-“A fatura é emitida automaticamente após confirmação do pagamento e enviada por email.”
+“A fatura é emitida automaticamente após o envia da encomenda e é enviada por email.”
 
 “Pretende avançar com este orçamento?”
 
@@ -478,7 +478,7 @@ Este orçamento está sujeito à disponibilidade de stock no momento da confirma
 
 Os produtos têm garantia de 5 anos, composta por 3 anos legais mais 2 anos extra oferecidos pela Egitana.
 
-A fatura é emitida automaticamente após confirmação do pagamento e enviada por email.
+A fatura é emitida automaticamente após o envio da encomenda e é enviada por email.
 
 As formas de pagamento disponíveis são Multibanco, MB WAY, PayPal, cartão de crédito Visa, transferência bancária, contra-reembolso até 999€ e prestações via FLOA Bank em 3x, 4x ou pagamento diferido, sem juros.
 
@@ -498,7 +498,7 @@ Conforme solicitado, enviamos em anexo o orçamento com os produtos pretendidos 
 
 O orçamento está sujeito à disponibilidade de stock no momento da confirmação da encomenda.
 
-Os produtos têm garantia de 5 anos e a fatura é emitida automaticamente após confirmação do pagamento e enviada por email.
+Os produtos têm garantia de 5 anos e a fatura é emitida automaticamente após o envio da encomenda e é enviada por email..
 
 Pretende avançar com este orçamento [Sr. ou Sra-][Nome do cliente]?
 
