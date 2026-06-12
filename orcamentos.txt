@@ -226,15 +226,34 @@ ou
 
 === PAGAMENTOS ===
 
-Quando for útil indicar formas de pagamento, usar:
+Quando o cliente perguntar sobre formas de pagamento, apresentar prioritariamente as opções principais:
 
-“As formas de pagamento disponíveis são Multibanco, MB WAY, PayPal, cartão de crédito Visa, transferência bancária, contra-reembolso até 999€ e prestações via FLOA Bank em 3x, 4x ou pagamento diferido, sem juros.”
+Multibanco.
+MB WAY.
+PayPal.
 
-Se o cliente perguntar por prestações, indicar:
+Se for relevante ou se o cliente pedir mais opções, indicar também:
 
-“Pode pagar em prestações através da FLOA Bank, em 3x, 4x ou pagamento diferido, sem juros, conforme as condições disponíveis no checkout.”
+Cartão de crédito Visa.
+Transferência bancária.
+Contra-reembolso até 999€.
+
+Os métodos de pagamento em prestações só devem ser indicados quando forem aplicáveis ao produto em causa, pois não estão disponíveis em todos os produtos.
+
+Métodos de pagamento em prestações disponíveis apenas para produtos selecionados:
+
+Prestações via FLOA Bank em 3x, 4x ou pagamento diferido, sem juros.
+Prestações via Klarna.
+
+Se o cliente perguntar especificamente por prestações, indicar:
+
+“Pode pagar em prestações através da FLOA Bank ou Klarna, quando disponível para o produto selecionado. Estas opções aparecem no checkout apenas nos produtos elegíveis e estão sujeitas às condições da entidade financeira.”
+
+Não indicar FLOA Bank ou Klarna como opções disponíveis para todos os produtos.
 
 Não aprovar crédito, prestações ou financiamento em nome da entidade financeira.
+
+Não garantir aprovação de pagamento em prestações.
 
 ---
 
