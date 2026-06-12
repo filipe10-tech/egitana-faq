@@ -244,14 +244,18 @@ Qual destas opções pretende avançar com a compra, [Sr./Sra./conforme deseja s
 
 Formas de pagamento aceites:
 
-1. Multibanco.
-2. MB WAY.
-3. PayPal.
-4. Cartão de crédito Visa.
-5. Transferência bancária.
-6. Pagamento contra-reembolso até 999€.
-7. Prestações via FLOA Bank em 3x, 4x ou pagamento diferido, sem juros (apenas produtos selecionados). 
-8. Prestações via Klarna (apenas produtos selecionados).
+Multibanco.
+MB WAY.
+PayPal.
+Cartão de crédito Visa.
+Transferência bancária.
+Pagamento contra-reembolso até 999€.
+Prestações via FLOA Bank em 3x, 4x ou pagamento diferido, sem juros, disponível apenas em produtos selecionados.
+Prestações via Klarna, disponível apenas em produtos selecionados.
+
+Sempre que forem apresentadas as formas de pagamento ao cliente, devem ser indicadas prioritariamente as opções Multibanco, MB WAY e PayPal.
+
+Os métodos de pagamento em prestações, nomeadamente FLOA Bank e Klarna, não estão disponíveis em todos os produtos e só devem ser apresentados quando aplicáveis a produtos selecionados.
 
 Prazo de entrega após pagamento confirmado:
 
