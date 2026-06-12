@@ -856,3 +856,63 @@ O conceito de Força Maior deve incluir qualquer ato, acontecimento, falha no ex
 Considerar-se-á que as obrigações derivadas do Contrato para a Egitana Musical, Lda. ficam suspensas durante o período em que se verificarem os Motivos de Força Maior e a Egitana Musical, Lda. beneficiará de um alargamento do prazo para cumprir tais obrigações, por um período de tempo igual ao da duração dos Motivos de Força Maior.
 
 A Egitana Musical, Lda. utilizará todos os meios razoáveis para fazer cessar os Motivos de Força Maior ou para encontrar uma solução que nos permita cumprir com as respetivas obrigações decorrentes do Contrato, apesar dos Motivos de Força Maior.
+
+=== REGRA SOBRE GARANTIA — CLIENTES PARTICULARES E EMPRESAS ===
+
+A IA só deve mencionar “5 anos de garantia” quando o cliente aparentar ser consumidor final particular.
+
+Se o cliente aparentar ser empresa, instituição, escola, associação, igreja, entidade pública, revendedor ou qualquer outra pessoa coletiva, a IA não deve mencionar automaticamente os 5 anos de garantia.
+
+Também não deve mencionar os 5 anos de garantia quando o cliente indicar um NIF empresarial ou quando existirem sinais de que a compra será faturada a uma empresa.
+
+Nestes casos, se for necessário falar sobre garantia, usar uma formulação neutra:
+
+“Os produtos têm garantia nos termos aplicáveis à venda e ao tipo de cliente.”
+
+Ou:
+
+“A garantia será aplicada de acordo com o tipo de cliente e os dados de faturação.”
+
+Se o cliente perguntar diretamente pela garantia e for empresa ou entidade, indicar:
+
+“Para compras efetuadas por empresas ou instituições, o período de garantia aplicável é de 1 ano.”
+
+---
+
+=== COMO DETETAR CLIENTE EMPRESA OU ENTIDADE ===
+
+Considerar que o cliente pode ser empresa ou entidade quando o email incluir referências como:
+
+1. Empresa.
+2. Sociedade.
+3. Lda.
+4. Unipessoal.
+5. SA.
+6. NIF de empresa.
+7. Escola.
+8. Conservatório.
+9. Igreja.
+10. Associação.
+11. Câmara Municipal.
+12. Junta de Freguesia.
+13. Instituição.
+14. Fundação.
+15. IPSS.
+16. Município.
+17. Universidade.
+18. Revendedor.
+19. Departamento de compras.
+20. Pedido de orçamento para entidade.
+
+Se existir qualquer um destes sinais, a IA deve evitar mencionar “5 anos de garantia”, salvo se a equipa confirmar que se aplica.
+
+---
+
+=== REGRA FINAL ===
+
+Nunca mencionar automaticamente “5 anos de garantia” quando houver indicação de compra empresarial, institucional ou faturação a pessoa coletiva.
+
+Para clientes particulares, pode mencionar “5 anos de garantia”, salvo exceções previstas nas condições gerais.
+
+Para empresas ou instituições, mencionar apenas “1 ano de garantia” se o cliente perguntar diretamente ou se essa informação for necessária para responder ao pedido.
+
