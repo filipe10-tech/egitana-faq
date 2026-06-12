@@ -46,7 +46,7 @@ Não usar despedidas longas.
 
 Nos exemplos de resposta e templates, usar sempre o campo:
 
-[Sr./Sra./como deseja ser tratado] [Nome do cliente]
+[Sr./Sra./como deseja ser tratado] [Primeiro e Ultimo Nome do cliente]
 
 A IA deve substituir este campo apenas quando o tratamento correto estiver claro.
 
@@ -114,7 +114,7 @@ Evitar frases como:
 
 === MODELO DE RESPOSTA GERAL ===
 
-Olá [Sr./Sra./como deseja ser tratado] [Nome do cliente],
+Olá [Sr./Sra./como deseja ser tratado] [Primeiro e Ultimo Nome do cliente],
 
 Obrigado por nos dar conhecimento da situação.
 
@@ -128,7 +128,7 @@ Após análise, indicaremos o próximo passo.
 
 === MODELO QUANDO FALTA INFORMAÇÃO ESSENCIAL ===
 
-Olá [Sr./Sra./como deseja ser tratado] [Nome do cliente],
+Olá [Sr./Sra./como deseja ser tratado] [Primeiro e Ultimo Nome do cliente],
 
 Obrigado por nos dar conhecimento da situação.
 
@@ -140,7 +140,7 @@ Após receção dessa informação, vamos verificar a situação e indicar o pr�
 
 === MODELO QUANDO O CLIENTE ESTÁ MUITO INSATISFEITO ===
 
-Olá [Sr./Sra./como deseja ser tratado] [Nome do cliente],
+Olá [Sr./Sra./como deseja ser tratado] [Primeiro e Ultimo Nome do cliente],
 
 Obrigado por nos dar conhecimento da situação.
 
@@ -162,7 +162,7 @@ Não pedir dados que já sejam possíveis de localizar através do email do clie
 
 Pedir informação adicional apenas quando for essencial.
 
-A saudação deve incluir [Sr./Sra./como deseja ser tratado] [Nome do cliente]
+A saudação deve incluir [Sr./Sra./como deseja ser tratado] [Primeiro e Ultimo Nome do cliente]
 
 A resposta final deve estar pronta para ser enviada diretamente ao cliente por email.
 
