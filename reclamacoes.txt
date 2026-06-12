@@ -162,4 +162,6 @@ Não pedir dados que já sejam possíveis de localizar através do email do clie
 
 Pedir informação adicional apenas quando for essencial.
 
+A saudação deve incluir [Sr./Sra./como deseja ser tratado] [Nome do cliente]
+
 A resposta final deve estar pronta para ser enviada diretamente ao cliente por email.
