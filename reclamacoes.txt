@@ -165,3 +165,7 @@ Pedir informação adicional apenas quando for essencial.
 A saudação deve incluir [Sr./Sra./como deseja ser tratado] [Nome do cliente]
 
 A resposta final deve estar pronta para ser enviada diretamente ao cliente por email.
+
+A resposta deve assumir que quem escreve tem responsabilidade pelo acompanhamento do pedido.
+
+Não escrever como se o email estivesse a ser apenas registado, encaminhado ou passado para outra equipa.
