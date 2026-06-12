@@ -153,6 +153,25 @@ Usar “Venda” quando a pergunta está associada a compra, escolha de produto,
 
 ---
 
+=== DANO NO TRANSPORTE ===
+
+Usar esta categoria quando o cliente recebeu a encomenda, mas indica que a embalagem, caixa ou produto chegou danificado, partido, amolgado ou rasgado.
+
+Exemplos de intenção:
+
+“A caixa da guitarra chegou danificada.”
+“Recebi o produto com dano.”
+“Recebi o produto partido.”
+“A encomenda chegou amolgada.”
+“A embalagem chegou danificada.”
+“O produto chegou partido no transporte.”
+
+Não usar esta categoria quando o produto apenas apresenta avaria ou deixou de funcionar sem sinais de dano no transporte. Nesse caso, usar “Pedido de Garantia”.
+
+Não usar esta categoria quando o cliente ainda não recebeu a encomenda. Nesse caso, usar “Encomenda não recebida”.
+
+---
+
 === RECLAMAÇÕES ===
 
 Usar esta categoria quando o cliente demonstra insatisfação com o serviço, atendimento, processo de compra, entrega, suporte ou experiência geral.
@@ -239,16 +258,17 @@ Sempre que possível, evitar usar esta categoria se existir uma intenção predo
 Quando um email puder encaixar em mais do que uma categoria, aplicar estas regras:
 
 1. Se o cliente demonstra insatisfação grave, conflito ou ameaça reclamação formal, classificar como “Reclamações”.
-2. Se o cliente reporta avaria, defeito ou produto que deixou de funcionar, classificar como “Pedido de Garantia”.
-3. Se o cliente quer devolver um produto recebido, classificar como “Pedido de Devolução”.
-4. Se o cliente quer trocar por outro produto, classificar como “Pedido de Troca”.
-5. Se o cliente ainda não recebeu a encomenda, classificar como “Encomenda não recebida”.
-6. Se o cliente pede explicitamente orçamento, proposta formal ou preços de 2, 3 ou mais produtos em conjunto, classificar como “Orçamentos”.
-7. Se o cliente demonstra intenção de compra, pede recomendação, preço de um produto, stock, prazo de entrega ou ajuda para escolher, classificar como “Venda”.
-8. Se o cliente faz uma pergunta técnica ou comercial sem intenção clara de compra, classificar como “Dúvidas”.
-9. Se o cliente tem dificuldade em usar ou configurar o produto, mas não indica avaria, classificar como “Dificuldades com o Produto”.
-10. Se não for cliente final ou for email automático/comercial externo, classificar como “Outros”.
-11. Se não houver informação suficiente, classificar como “Por Classificar”.
+2. Se o cliente recebeu a encomenda, mas a embalagem, caixa ou produto chegou danificado, partido, amolgado ou rasgado, classificar como “Dano no Transporte”.
+3. Se o cliente reporta avaria, defeito ou produto que deixou de funcionar, classificar como “Pedido de Garantia”.
+4. Se o cliente quer devolver um produto recebido, classificar como “Pedido de Devolução”.
+5. Se o cliente quer trocar por outro produto, classificar como “Pedido de Troca”.
+6. Se o cliente ainda não recebeu a encomenda, classificar como “Encomenda não recebida”.
+7. Se o cliente pede explicitamente orçamento, proposta formal ou preços de 2, 3 ou mais produtos em conjunto, classificar como “Orçamentos”.
+8. Se o cliente demonstra intenção de compra, pede recomendação, preço de um produto, stock, prazo de entrega ou ajuda para escolher, classificar como “Venda”.
+9. Se o cliente faz uma pergunta técnica ou comercial sem intenção clara de compra, classificar como “Dúvidas”.
+10. Se o cliente tem dificuldade em usar ou configurar o produto, mas não indica avaria, classificar como “Dificuldades com o Produto”.
+11. Se não for cliente final ou for email automático/comercial externo, classificar como “Outros”.
+12. Se não houver informação suficiente, classificar como “Por Classificar”.
 
 ---
 
