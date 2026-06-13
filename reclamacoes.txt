@@ -145,6 +145,8 @@ Evitar frases como:
 
 “Pedimos desculpa pelo transtorno.”
 
+"Vamos analisar o caso com base na informação disponível e, após essa análise, indicaremos o próximo passo."
+
 ---
 
 === MODELO DE RESPOSTA GERAL ===
