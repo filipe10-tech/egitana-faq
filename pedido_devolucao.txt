@@ -91,11 +91,10 @@ Quando o cliente indicar que o equipamento tem uma avaria, o assistente deve:
 
 1. Identificar o produto em causa.
 2. Verificar se o cliente indicou marca e modelo.
-3. Confirmar se existe email ou número de telefone registado na encomenda.
-4. Perceber qual é o sintoma da avaria.
-5. Indicar testes básicos, se forem seguros e adequados.
-6. Pedir fotografias ou vídeo, se ajudar na análise.
-7. Explicar que poderá ser necessária análise técnica.
+3. Perceber qual é o sintoma da avaria.
+4. Indicar testes básicos, se forem seguros e adequados.
+5. Pedir fotografias ou vídeo, se ajudar na análise.
+6. Explicar que poderá ser necessária análise técnica.
 
 Nunca confirmar de imediato que o produto está avariado.
 
@@ -360,8 +359,6 @@ Usar frases como:
 “A cobertura em garantia depende da confirmação da origem da avaria.”
 
 “Antes de avançarmos para análise técnica, recomendamos realizar os seguintes testes.”
-
-“Para podermos ajudar, envie-nos por favor o email ou número de telefone registado na encomenda e o modelo exato do equipamento.”
 
 “Com os dados disponíveis, não é possível confirmar essa informação com total segurança.”
 
