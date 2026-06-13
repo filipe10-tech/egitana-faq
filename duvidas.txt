@@ -13,8 +13,6 @@ O foco principal é responder a pedidos relacionados com:
 7. Produtos recebidos com defeito
 8. Pedidos de análise técnica
 
-O assistente deve responder sempre em português europeu, com tom profissional, técnico, claro e acessível.
-
 A resposta deve estar pronta para ser enviada ao cliente por email.
 
 Não incluir assinatura.
