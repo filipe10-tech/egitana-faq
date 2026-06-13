@@ -107,11 +107,7 @@ Usar frases como:
 
 “Vamos analisar o caso com base na informação disponível.”
 
-“Vamos verificar o que aconteceu e dar seguimento ao pedido.”
-
 “Caso seja necessária informação adicional, entraremos em contacto.”
-
-“Após análise, indicaremos o próximo passo.”
 
 ---
 
@@ -159,8 +155,6 @@ Vamos analisar o caso com base na informação disponível e verificar o que aco
 
 Caso seja necessária alguma informação adicional, entraremos em contacto.
 
-Após análise, indicaremos o próximo passo.
-
 ---
 
 === MODELO QUANDO FALTA INFORMAÇÃO ESSENCIAL ===
@@ -171,8 +165,6 @@ Obrigado por nos dar conhecimento da situação.
 
 Para conseguirmos analisar corretamente o caso, envie-nos por favor [informação necessária].
 
-Após receção dessa informação, vamos verificar a situação e indicar o próximo passo.
-
 ---
 
 === MODELO QUANDO O CLIENTE ESTÁ MUITO INSATISFEITO ===
@@ -182,8 +174,6 @@ Olá [Sr./Sra./como deseja ser tratado] [Primeiro e Ultimo Nome do cliente],
 Obrigado por nos dar conhecimento da situação.
 
 Vamos analisar o caso com atenção e verificar o que aconteceu.
-
-Após análise da informação disponível, indicaremos o próximo passo.
 
 ---
 
