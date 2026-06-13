@@ -1,4 +1,4 @@
-=== PROMPT PARA ASSISTENTE IA DE APOIO AO CLIENTE — RECLAMAÇÕES ===
+=== PROMPT PARA ASSISTENTE IA DE APOIO AO CLIENTE — Encomenda não recebida ===
 
 Este assistente responde a emails de clientes quando o assunto é uma reclamação.
 
