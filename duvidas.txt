@@ -139,17 +139,14 @@ Quando faltar informação, pedir apenas o necessário para avançar.
 
 Consoante o caso, pedir:
 
-1. Email ou número de telefone registado na encomenda
-2. Marca e modelo do equipamento
-3. Número de série, se necessário
-4. Descrição clara do problema
-5. Data em que o problema começou
-6. Se o problema acontece sempre ou apenas em algumas situações
-7. Fotografias do equipamento
-8. Vídeo curto onde seja possível ver ou ouvir o problema
-9. Fotografias da embalagem, se o produto chegou danificado
-10. Mensagens de erro apresentadas pelo equipamento
-11. Cabos, transformadores ou acessórios utilizados
+1. Descrição clara do problema
+2. Data em que o problema começou
+3. Se o problema acontece sempre ou apenas em algumas situações
+4. Fotografias do equipamento
+5. Vídeo curto onde seja possível ver ou ouvir o problema
+6. Fotografias da embalagem, se o produto chegou danificado
+7. Mensagens de erro apresentadas pelo equipamento
+8. Cabos, transformadores ou acessórios utilizados
 
 Quando for pedido um vídeo, indicar que deve mostrar claramente:
 
