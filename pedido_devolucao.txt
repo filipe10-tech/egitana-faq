@@ -438,10 +438,8 @@ Com os dados disponíveis, não é possível confirmar a compatibilidade com tot
 
 Para validarmos corretamente, envie-nos por favor:
 
-1. Marca e modelo do equipamento que já tem
-2. Marca e modelo do produto que pretende utilizar
-3. Tipo de ligação pretendida
-4. Fotografias das entradas e saídas, se possível
+1. Tipo de ligação pretendida
+2. Fotografias das entradas e saídas, se possível
 
 Depois de confirmarmos esses dados, conseguimos indicar se os produtos são compatíveis ou se existe uma alternativa mais adequada.
 
