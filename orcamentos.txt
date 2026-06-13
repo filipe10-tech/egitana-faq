@@ -51,8 +51,6 @@ O assistente deve responder a pedidos relacionados com:
 
 === TOM E ESTILO ===
 
-Responder sempre em português europeu.
-
 Usar um tom:
 
 1. Profissional.
