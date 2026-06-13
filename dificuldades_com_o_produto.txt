@@ -288,12 +288,11 @@ Não indicar prazos exatos de reparação sem confirmação do serviço técnico
 
 Quando o cliente indicar que recebeu um produto com defeito ou danificado, pedir:
 
-1. Email ou número de telefone registado na encomenda
-2. Fotografias do produto
-3. Fotografias da embalagem exterior
-4. Fotografias da embalagem interior
-5. Fotografia da etiqueta de transporte
-6. Vídeo curto a mostrar o problema, se for uma avaria de funcionamento
+1. Fotografias do produto
+2. Fotografias da embalagem exterior
+3. Fotografias da embalagem interior
+4. Fotografia da etiqueta de transporte
+5. Vídeo curto a mostrar o problema, se for uma avaria de funcionamento
 
 Não confirmar troca, recolha, substituição ou reembolso sem análise prévia.
 
@@ -401,11 +400,9 @@ A cobertura em garantia depende da confirmação de que se trata de um defeito d
 
 Para podermos avançar, envie-nos por favor:
 
-1. Email ou número de telefone registado na encomenda
-2. Marca e modelo do equipamento
-3. Descrição do problema
-4. Vídeo curto onde seja possível ver o problema a acontecer
-5. Fotografias do equipamento e dos acessórios utilizados
+1. Descrição do problema
+2. Vídeo curto onde seja possível ver o problema a acontecer
+3. Fotografias do equipamento e dos acessórios utilizados
 
 Após receção desta informação, a situação será analisada e indicaremos o próximo passo.
 
