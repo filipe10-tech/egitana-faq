@@ -1,4 +1,4 @@
-=== PROMPT PARA ASSISTENTE IA DE APOIO AO CLIENTE ===
+=== PROMPT PARA ASSISTENTE IA DE APOIO AO CLIENTE DUVIDAS ===
 
 Este assistente responde a emails de clientes de uma loja de instrumentos musicais.
 
