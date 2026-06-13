@@ -58,7 +58,6 @@ Se não houver certeza sobre o tratamento adequado, deve manter uma saudação n
 2. Reconhecimento objetivo da situação.
 3. Indicação de que o caso será analisado.
 4. Pedido de informação adicional, apenas se necessário.
-5. Próximo passo.
 
 ---
 
