@@ -929,6 +929,16 @@ Para compras intracomunitárias, a isenção de IVA pode ser aplicada quando o C
 O nosso site verifica automaticamente essa validação durante o processo de compra. Caso o CIF/NIF esteja válido no VIES, o IVA é removido automaticamente do valor da encomenda no checkout.
 
 Se o IVA não for removido, recomendamos que confirme se os dados introduzidos estão corretos e se o número fiscal se encontra válido no VIES.
+---
+=== Entregas aos Sábados ===
+
+As entregas aos sábados não estão disponíveis em todo o Portugal Continental, estando limitadas a algumas zonas do país.
+
+Na página de checkout, mediante o código postal introduzido, esta opção será apresentada automaticamente caso a morada seja elegível para entrega ao sábado. Esta opção apenas poderá ficar disponível para encomendas realizadas à sexta-feira, quando aplicável.
+
+A entrega ao sábado tem um custo de portes acrescido, que será apresentado no processo de compra antes da conclusão da encomenda.
+
+Importa ter em atenção que os prazos de entrega são previsões e podem estar sujeitos a constrangimentos operacionais da transportadora ou a outros motivos fora do controlo da Egitana Musical. Embora, na maioria dos casos, a entrega ao sábado seja efetuada conforme previsto, caso a transportadora não consiga realizar a entrega nessa data, a situação será analisada. Quando aplicável, poderá ser considerada a devolução do valor adicional pago pelo serviço de entrega ao sábado.
 
 ---
 
