@@ -932,6 +932,17 @@ If VAT is not removed, we recommend confirming that the details entered are corr
 
 
 ---
+=== Saturday Deliveries ===
+
+Saturday deliveries are not available throughout mainland Portugal and are limited to certain areas of the country.
+
+On the checkout page, based on the postcode entered, this option will be displayed automatically if the address is eligible for Saturday delivery. This option may only be available for orders placed on Fridays, where applicable.
+
+Saturday delivery has an additional shipping cost, which will be shown during the purchase process before the order is completed.
+
+Please note that delivery times are estimates and may be subject to operational constraints from the carrier or other reasons beyond Egitana Musical’s control. Although, in most cases, Saturday delivery is carried out as expected, if the carrier is unable to complete the delivery on that date, the situation will be reviewed. Where applicable, a refund of the additional amount paid for the Saturday delivery service may be considered.
+
+---
 
 === FINAL RULE ===
 
