@@ -906,6 +906,16 @@ Nuestro sitio web verifica automáticamente esa validación durante el proceso d
 Si el IVA no se elimina, recomendamos que confirme que los datos introducidos son correctos y que el número fiscal se encuentra válido en VIES.
 
 ---
+=== Entregas los Sábados ===
+
+Las entregas los sábados no están disponibles en todo Portugal Continental, estando limitadas a algunas zonas del país.
+
+En la página de checkout, según el código postal introducido, esta opción se mostrará automáticamente si la dirección es elegible para entrega el sábado. Esta opción solo podrá estar disponible para pedidos realizados los viernes, cuando corresponda.
+
+La entrega el sábado tiene un coste de envío adicional, que se mostrará durante el proceso de compra antes de finalizar el pedido.
+
+Es importante tener en cuenta que los plazos de entrega son previsiones y pueden estar sujetos a limitaciones operativas de la empresa de transporte o a otros motivos fuera del control de Egitana Musical. Aunque, en la mayoría de los casos, la entrega el sábado se realiza según lo previsto, si la empresa de transporte no consigue realizar la entrega en esa fecha, la situación será analizada. Cuando corresponda, podrá considerarse la devolución del valor adicional pagado por el servicio de entrega el sábado.
+---
 
 === REGLA FINAL ===
 
