@@ -944,6 +944,14 @@ Please note that delivery times are estimates and may be subject to operational 
 
 ---
 
+=== Delivery to CTT Pick-up Points and Locky Lockers ===
+
+Delivery to CTT Pick-up Points and Locky Lockers is always carried out by CTT and only appears at checkout when available for the order. Not all products are eligible for this option, as eligibility may depend on weight, dimensions or CTT logistics rules.
+
+The pick-up point or locker is selected by the customer at checkout, and it is the customer’s responsibility to confirm the selection before completing the order. If the order is redirected to a different pick-up point or locker after dispatch, due to unavailability, operational limitations or redirection by CTT, the customer should contact CTT directly for clarification.
+
+---
+
 === FINAL RULE ===
 
 Never automatically mention “5-year warranty” when there is an indication of a business or institutional purchase, or invoicing to a legal person.
