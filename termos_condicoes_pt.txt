@@ -942,6 +942,13 @@ Importa ter em atenção que os prazos de entrega são previsões e podem estar 
 
 ---
 
+=== Entrega em Pontos CTT e Cacifos Locky ===
+
+A entrega em Pontos CTT e Cacifos Locky é sempre realizada através dos CTT e apenas aparece no checkout quando disponível para a encomenda. Nem todos os produtos são elegíveis para esta opção, podendo depender do peso, dimensão ou regras logísticas dos CTT.
+
+O ponto de recolha ou cacifo é escolhido pelo cliente no checkout, sendo da sua responsabilidade confirmar a seleção antes de concluir a encomenda. Caso a encomenda seja encaminhada para um ponto/cacifo diferente após a expedição, por indisponibilidade, limitação operacional ou redirecionamento dos CTT, o cliente deverá contactar diretamente os CTT para obter esclarecimentos.
+
+---
 === REGRA FINAL ===
 
 Nunca mencionar automaticamente “5 anos de garantia” quando houver indicação de compra empresarial, institucional ou faturação a pessoa coletiva.
