@@ -75,6 +75,22 @@ Não usar esta categoria para pedidos antes da compra sobre prazos de entrega. N
 
 ---
 
+=== PEDIDO DE CANCELAMENTO ===
+
+Usar esta categoria quando o cliente solicita o cancelamento de um pedido ou encomenda que ainda não recebeu.
+
+Exemplos de intenção:
+
+1. “Quero cancelar a minha encomenda.”
+2. “Posso cancelar o pedido?”
+3. “Ainda é possível cancelar?”
+4. “Pretendo cancelar a compra.”
+5. “Não quero mais a encomenda, como cancelo?”
+
+Não usar esta categoria quando o cliente já recebeu a encomenda e quer devolvê-la. Nesse caso, usar “Pedido de Devolução”.
+
+---
+
 === VENDA ===
 
 Usar esta categoria quando o cliente demonstra intenção de compra, pede informação antes de comprar, está indeciso entre produtos, pede recomendação, pergunta preço de um produto, stock, prazo de entrega ou condições comerciais associadas à compra.
@@ -263,12 +279,13 @@ Quando um email puder encaixar em mais do que uma categoria, aplicar estas regra
 4. Se o cliente quer devolver um produto recebido, classificar como “Pedido de Devolução”.
 5. Se o cliente quer trocar por outro produto, classificar como “Pedido de Troca”.
 6. Se o cliente ainda não recebeu a encomenda, classificar como “Encomenda não recebida”.
-7. Se o cliente pede explicitamente orçamento, proposta formal ou preços de 2, 3 ou mais produtos em conjunto, classificar como “Orçamentos”.
-8. Se o cliente demonstra intenção de compra, pede recomendação, preço de um produto, stock, prazo de entrega ou ajuda para escolher, classificar como “Venda”.
-9. Se o cliente faz uma pergunta técnica ou comercial sem intenção clara de compra, classificar como “Dúvidas”.
-10. Se o cliente tem dificuldade em usar ou configurar o produto, mas não indica avaria, classificar como “Dificuldades com o Produto”.
-11. Se não for cliente final ou for email automático/comercial externo, classificar como “Outros”.
-12. Se não houver informação suficiente, classificar como “Por Classificar”.
+7. Se o cliente quer cancelar um pedido ou encomenda que ainda não recebeu, classificar como “Pedido de Cancelamento”.
+8. Se o cliente pede explicitamente orçamento, proposta formal ou preços de 2, 3 ou mais produtos em conjunto, classificar como “Orçamentos”.
+9. Se o cliente demonstra intenção de compra, pede recomendação, preço de um produto, stock, prazo de entrega ou ajuda para escolher, classificar como “Venda”.
+10. Se o cliente faz uma pergunta técnica ou comercial sem intenção clara de compra, classificar como “Dúvidas”.
+11. Se o cliente tem dificuldade em usar ou configurar o produto, mas não indica avaria, classificar como “Dificuldades com o Produto”.
+12. Se não for cliente final ou for email automático/comercial externo, classificar como “Outros”.
+13. Se não houver informação suficiente, classificar como “Por Classificar”.
 
 ---
 
