@@ -1,0 +1,311 @@
+=== CATEGORIAS DE CLASSIFICAÇÃO DE EMAILS ===
+
+O sistema deve classificar cada email recebido numa das categorias abaixo, de acordo com o conteúdo e a intenção principal da mensagem.
+
+Deve ser atribuída apenas uma categoria principal por email.
+
+Quando o email tiver mais do que um tema, deve prevalecer a intenção mais urgente ou operacional.
+
+---
+
+=== PEDIDO DE DEVOLUÇÃO ===
+
+Usar esta categoria quando o cliente quer devolver um produto que já recebeu.
+
+Exemplos de intenção:
+
+1. “Quero devolver o produto.”
+2. “Não quero ficar com o artigo.”
+3. “Pretendo fazer uma devolução.”
+4. “Como posso devolver?”
+5. “Recebi, mas quero devolver.”
+
+Não usar esta categoria quando o cliente quer trocar por outro produto. Nesse caso, usar “Pedido de Troca”.
+
+---
+
+=== PEDIDO DE TROCA ===
+
+Usar esta categoria quando o cliente quer trocar um produto por outro produto, modelo, cor, tamanho ou versão diferente.
+
+Exemplos de intenção:
+
+1. “Posso trocar por outro modelo?”
+2. “Quero trocar este produto.”
+3. “Enganei-me no modelo, posso trocar?”
+4. “Queria trocar por outro artigo.”
+5. “Este não serve, posso trocar por outro?”
+
+Não usar esta categoria quando o cliente quer apenas devolver o produto e receber reembolso. Nesse caso, usar “Pedido de Devolução”.
+
+---
+
+=== PEDIDO DE GARANTIA ===
+
+Usar esta categoria quando o cliente reporta que um produto apresenta defeito, avaria ou deixou de funcionar, dentro do período de garantia.
+
+Exemplos de intenção:
+
+1. “O produto avariou.”
+2. “Não funciona.”
+3. “Deixou de ligar.”
+4. “Está com defeito.”
+5. “Comprei há pouco tempo e já não funciona.”
+6. “Quero acionar a garantia.”
+7. “O equipamento apresenta uma falha.”
+
+Não confirmar automaticamente que está coberto pela garantia. Esta categoria serve apenas para identificar o tipo de pedido.
+
+---
+
+=== ENCOMENDA NÃO RECEBIDA ===
+
+Usar esta categoria quando o cliente ainda não recebeu a encomenda, indica atraso na entrega ou pergunta pelo estado da entrega.
+
+Exemplos de intenção:
+
+1. “A minha encomenda ainda não chegou.”
+2. “Onde está a minha encomenda?”
+3. “Quando vou receber?”
+4. “A encomenda está atrasada.”
+5. “O tracking não atualiza.”
+6. “A transportadora ainda não entregou.”
+
+Não usar esta categoria para pedidos antes da compra sobre prazos de entrega. Nesse caso, usar “Venda”, salvo se o cliente estiver a pedir um orçamento formal ou preços de vários produtos.
+
+---
+
+=== PEDIDO DE CANCELAMENTO ===
+
+Usar esta categoria quando o cliente solicita o cancelamento de um pedido ou encomenda que ainda não recebeu.
+
+Exemplos de intenção:
+
+1. “Quero cancelar a minha encomenda.”
+2. “Posso cancelar o pedido?”
+3. “Ainda é possível cancelar?”
+4. “Pretendo cancelar a compra.”
+5. “Não quero mais a encomenda, como cancelo?”
+
+Não usar esta categoria quando o cliente já recebeu a encomenda e quer devolvê-la. Nesse caso, usar “Pedido de Devolução”.
+
+---
+
+=== PEDIDO DE FATURA ===
+
+Usar esta categoria quando o cliente pede a fatura de uma compra, quer corrigir os dados fiscais, alterar o nome para empresa, ou diz que não recebeu o email com as instruções para fazer a correção.
+
+Exemplos de intenção:
+
+1. "Preciso da fatura em nome da empresa."
+2. "Quero corrigir o NIF na fatura."
+3. "A fatura está com dados errados."
+4. "Podem emitir a fatura com os dados da empresa?"
+5. "Não recebi o email para corrigir a fatura."
+6. "Como posso alterar os dados fiscais?"
+7. "Preciso da fatura com o NIF da minha empresa."
+8. "A fatura está em nome errado."
+
+Não usar esta categoria para pedidos gerais sobre faturas antes da compra (ex: "quando recebo a fatura?"). Nesses casos, usar "Dúvidas".
+
+---
+
+=== VENDA ===
+
+Usar esta categoria quando o cliente demonstra intenção de compra, pede informação antes de comprar, está indeciso entre produtos, pede recomendação, pergunta preço de um produto, stock, prazo de entrega ou condições comerciais associadas à compra.
+
+Esta categoria deve incluir a maioria dos contactos comerciais antes da compra, exceto quando o cliente pede explicitamente um orçamento/proposta ou preços de vários produtos em conjunto.
+
+Exemplos de intenção:
+
+1. “Qual me recomenda?”
+2. “Este produto serve para o meu caso?”
+3. “Quero comprar uma guitarra para iniciante.”
+4. “Qual é a diferença entre este e aquele modelo?”
+5. “Que teclado devo comprar para começar?”
+6. “Preciso de uma coluna para eventos, o que aconselham?”
+7. “Estou indeciso entre estes dois produtos.”
+8. “Qual é melhor para mim?”
+9. “Quanto custa este produto?”
+10. “Têm este produto em stock?”
+11. “Qual o prazo de entrega para França?”
+12. “Quanto tempo demora a chegar?”
+13. “Este produto tem garantia?”
+14. “Posso pagar em prestações?”
+15. “Quero comprar este artigo.”
+
+Diferença para “Orçamentos”:
+Usar “Venda” quando o cliente pede informação, preço, stock, prazo ou recomendação sobre um produto ou sobre uma decisão de compra simples.
+Usar “Orçamentos” quando o cliente pede explicitamente um orçamento, uma proposta formal ou preços de 2, 3 ou mais produtos em conjunto.
+
+---
+
+=== ORÇAMENTOS ===
+
+Usar esta categoria quando o cliente pede explicitamente um orçamento, uma proposta formal ou preços de 2, 3 ou mais produtos em conjunto.
+
+Também usar quando o cliente representa uma escola, empresa, igreja, associação ou entidade e pede uma proposta para vários artigos ou equipamentos.
+
+Exemplos de intenção:
+
+1. “Podem enviar orçamento?”
+2. “Preciso de uma proposta.”
+3. “Queria um orçamento para estes produtos.”
+4. “Podem fazer orçamento para uma escola?”
+5. “Precisamos de orçamento para uma igreja.”
+6. “Envie-me uma proposta com estes artigos.”
+7. “Qual o preço total destes produtos?”
+8. “Quanto fica comprar estes 3 artigos?”
+9. “Preciso de preço para 10 unidades.”
+10. “Podem enviar orçamento em PDF?”
+11. “Quero orçamento para uma bateria, banco, baquetas e auscultadores.”
+12. “Qual o valor para esta lista de produtos?”
+
+Diferença para “Venda”:
+Usar “Orçamentos” apenas quando existe pedido explícito de orçamento/proposta ou quando o cliente pede preços de 2, 3 ou mais produtos em conjunto.
+Usar “Venda” quando o cliente pede informação de compra, preço, stock ou prazo sobre um produto específico, ou quando precisa de aconselhamento para escolher.
+
+---
+
+=== DÚVIDAS ===
+
+Usar esta categoria quando o cliente coloca questões técnicas, comerciais ou sobre políticas da loja, mas sem intenção clara de compra imediata.
+
+Exemplos de intenção:
+
+1. “Como funciona a política de trocas?”
+2. “Que cabo preciso para ligar isto?”
+3. “Têm loja física?”
+4. “Quais são os métodos de pagamento?”
+5. “Como funciona a garantia?”
+6. “Fazem envios para França?”
+7. “Como posso contactar o apoio?”
+8. “Este equipamento funciona com pilhas?”
+
+Diferença para “Venda”:
+Usar “Dúvidas” quando a pergunta é informativa e não existe intenção clara de compra.
+Usar “Venda” quando a pergunta está associada a compra, escolha de produto, preço, stock ou prazo de entrega antes de comprar.
+
+---
+
+=== DANO NO TRANSPORTE ===
+
+Usar esta categoria quando o cliente recebeu a encomenda, mas indica que a embalagem, caixa ou produto chegou danificado, partido, amolgado ou rasgado.
+
+Exemplos de intenção:
+
+“A caixa da guitarra chegou danificada.”
+“Recebi o produto com dano.”
+“Recebi o produto partido.”
+“A encomenda chegou amolgada.”
+“A embalagem chegou danificada.”
+“O produto chegou partido no transporte.”
+
+Não usar esta categoria quando o produto apenas apresenta avaria ou deixou de funcionar sem sinais de dano no transporte. Nesse caso, usar “Pedido de Garantia”.
+
+Não usar esta categoria quando o cliente ainda não recebeu a encomenda. Nesse caso, usar “Encomenda não recebida”.
+
+---
+
+=== RECLAMAÇÕES ===
+
+Usar esta categoria quando o cliente demonstra insatisfação com o serviço, atendimento, processo de compra, entrega, suporte ou experiência geral.
+
+Exemplos de intenção:
+
+1. “Fui mal atendido.”
+2. “Estou muito insatisfeito.”
+3. “Isto é inaceitável.”
+4. “Não gostei do serviço.”
+5. “Já reclamei várias vezes.”
+6. “Ninguém me responde.”
+7. “O atendimento foi péssimo.”
+8. “Quero apresentar reclamação.”
+
+Quando existir reclamação associada a outro tema, como garantia ou encomenda não recebida, classificar como “Reclamações” se o tom principal for de insatisfação grave ou conflito.
+
+---
+
+=== DIFICULDADES COM O PRODUTO ===
+
+Usar esta categoria quando o cliente tem dificuldade em utilizar, configurar, ligar ou compreender o funcionamento do produto, mas não reporta claramente uma avaria ou defeito.
+
+Exemplos de intenção:
+
+1. “Não consigo configurar.”
+2. “Como se liga?”
+3. “Não percebo como funciona.”
+4. “Como faço para emparelhar?”
+5. “Não consigo ligar ao computador.”
+6. “Como altero esta definição?”
+7. “Preciso de ajuda a usar o equipamento.”
+8. “Não consigo tirar som, mas não sei se estou a ligar bem.”
+
+Diferença para “Pedido de Garantia”:
+Usar “Dificuldades com o Produto” quando parece ser uma questão de utilização, instalação ou configuração.
+Usar “Pedido de Garantia” quando o cliente afirma que o produto está avariado, com defeito ou deixou de funcionar.
+
+---
+
+=== OUTROS ===
+
+Usar esta categoria quando o email não é de um cliente final ou não corresponde a um pedido normal de apoio ao cliente.
+
+Também usar esta categoria quando o email for enviado por técnicos, serviços técnicos autorizados, marcas, distribuidores ou fornecedores, mesmo que esteja relacionado com garantias, reparações, orçamentos técnicos, peças, análises ou processos em curso.
+
+Exemplos:
+
+Propostas de fornecedores.
+Pedidos de parceria.
+Pedidos de patrocínio.
+Newsletters B2B.
+Relatórios automáticos de serviços.
+Notificações automáticas da Stripe, UPS, transportadoras ou plataformas externas.
+Contactos comerciais que não são clientes finais.
+Candidaturas espontâneas.
+Emails institucionais sem pedido de cliente.
+Emails enviados por técnicos das marcas.
+Emails enviados por serviços técnicos autorizados.
+Emails de marcas, distribuidores ou fornecedores sobre processos de garantia, reparação, peças ou orçamentos técnicos.
+
+Não usar “Outros” quando o email for de um cliente final e se enquadrar numa das categorias anteriores.
+
+---
+
+=== POR CLASSIFICAR ===
+
+Usar esta categoria quando o email não se encaixa claramente em nenhuma das categorias anteriores ou quando a informação disponível é insuficiente para identificar a intenção principal.
+
+Exemplos:
+
+1. Email demasiado incompleto.
+2. Mensagem sem contexto suficiente.
+3. Texto ilegível ou ambíguo.
+4. Pedido que pode pertencer a várias categorias, mas sem informação suficiente para decidir.
+5. Email vazio ou com anexos sem explicação.
+
+Sempre que possível, evitar usar esta categoria se existir uma intenção predominante identificável.
+
+---
+
+=== REGRAS DE PRIORIDADE ===
+
+Quando um email puder encaixar em mais do que uma categoria, aplicar estas regras:
+
+1. Se o cliente demonstra insatisfação grave, conflito ou ameaça reclamação formal, classificar como “Reclamações”.
+2. Se o cliente recebeu a encomenda, mas a embalagem, caixa ou produto chegou danificado, partido, amolgado ou rasgado, classificar como “Dano no Transporte”.
+3. Se o cliente reporta avaria, defeito ou produto que deixou de funcionar, classificar como “Pedido de Garantia”.
+4. Se o cliente quer devolver um produto recebido, classificar como “Pedido de Devolução”.
+5. Se o cliente quer trocar por outro produto, classificar como “Pedido de Troca”.
+6. Se o cliente ainda não recebeu a encomenda, classificar como “Encomenda não recebida”.
+7. Se o cliente quer cancelar um pedido ou encomenda que ainda não recebeu, classificar como “Pedido de Cancelamento”.
+8. Se o cliente pede a fatura, quer corrigir dados fiscais, alterar para nome de empresa ou diz que não recebeu o email com as instruções para correção da fatura, classificar como “Pedido de Fatura”.
+9. Se o cliente pede explicitamente orçamento, proposta formal ou preços de 2, 3 ou mais produtos em conjunto, classificar como “Orçamentos”.
+10. Se o cliente demonstra intenção de compra, pede recomendação, preço de um produto, stock, prazo de entrega ou ajuda para escolher, classificar como “Venda”.
+11. Se o cliente faz uma pergunta técnica ou comercial sem intenção clara de compra, classificar como “Dúvidas”.
+12. Se o cliente tem dificuldade em usar ou configurar o produto, mas não indica avaria, classificar como “Dificuldades com o Produto”.
+13. Se não for cliente final ou for email automático/comercial externo, classificar como “Outros”.
+14. Se não houver informação suficiente, classificar como “Por Classificar”.
+
+---
+
