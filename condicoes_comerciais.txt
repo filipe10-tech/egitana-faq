@@ -7,7 +7,8 @@ pesados, montagens e Tax Free. Se qualquer outro documento — incluindo os Term
 Venda ou o FAQ da categoria — indicar condições diferentes das aqui listadas, prevalece SEMPRE
 este documento.
 
-Secções: 1. Pagamentos · 2. Portes · 3. Prazos · 4. Produtos pesados e montagens · 5. Tax Free
+Secções: 1. Pagamentos · 2. Portes · 3. Prazos · 4. Produtos pesados e montagens · 5. Tax Free ·
+6. Processo de pós-venda (trocas, devoluções, garantias e danos)
 
 Nota: os Termos e Condições traduzidos para espanhol, francês e inglês estão desatualizados em
 matéria de pagamentos — listam métodos que só existem em Portugal. Não os uses como fonte.
@@ -209,3 +210,71 @@ o tema.
 
 Ao pedir, explicar para que servem — são necessários para emitir a documentação de Tax Free — para
 que o cliente perceba o motivo do pedido.
+
+
+################################################################
+# 6. PROCESSO DE PÓS-VENDA (TROCAS, DEVOLUÇÕES, GARANTIAS E DANOS)
+################################################################
+
+--- QUANDO SE APLICA ---
+
+APLICA-SE APENAS a pedidos de:
+1. Troca
+2. Devolução
+3. Garantia
+4. Dano no transporte
+
+NÃO APLICAR a: dúvidas técnicas, dificuldades de utilização, pedidos de orçamento, pedidos de
+fatura, encomendas não recebidas, cancelamentos ou questões de venda. Nesses casos, responder
+normalmente e NÃO mencionar o formulário de pós-venda.
+
+--- O PROCESSO ---
+
+Nestes quatro casos, o cliente tem de abrir o pedido através do formulário de pós-venda.
+O cliente preenche o formulário e segue os passos indicados na página.
+
+--- O ENDEREÇO DEPENDE DO MERCADO DO CLIENTE ---
+
+Cliente em PORTUGUÊS  ->  https://www.egitana.pt/posvenda
+Cliente em ESPANHOL   ->  https://www.egitana.es/posvenda
+Cliente em FRANCÊS    ->  https://www.egitana.fr/posvenda
+Cliente em INGLÊS     ->  https://www.egitana.pt/posvenda
+
+Indicar SEMPRE o endereço correspondente ao idioma do cliente, e apenas esse.
+
+Nunca dar o endereço de outro mercado: um cliente espanhol que receba o link .pt fica com o
+formulário noutro idioma e pode desistir do pedido. Indicar um só link por resposta, nunca uma
+lista dos três.
+
+--- CLIENTE SEM CONTA ---
+
+Não é necessário criar conta. Na mesma página existe a opção:
+
+"Se não tiver conta ou preferir, introduza o seu email para receber um link de acesso."
+Botão: "Receber um link de acesso por email"
+
+Indicar SEMPRE esta alternativa ao dar o link. Muitos clientes desistem por pensarem que têm de
+se registar — mencionar isto evita esse bloqueio.
+
+--- O FORMULÁRIO É SEMPRE OBRIGATÓRIO ---
+
+O pedido tem de passar pelo formulário, mesmo que o cliente já tenha enviado por email fotografias,
+número de encomenda, descrição do problema ou quaisquer outros dados.
+
+Não abrir o processo por email nem dar a entender que o pedido fica tratado só com a troca de
+mensagens.
+
+CUIDADO COM O TOM: se o cliente já enviou informação ou fotografias, agradecer primeiro e só depois
+explicar que o registo do pedido é feito através do formulário, para que fique com número de
+acompanhamento. Nunca responder de forma seca nem dar a ideia de que o esforço do cliente foi
+desperdiçado.
+
+Exemplo de abordagem (adaptar ao caso, ao idioma do cliente e ao endereço do mercado dele):
+"Obrigado pelas fotografias e pela descrição, que já nos ajudam a perceber a situação. Para
+registarmos formalmente o pedido e podermos dar-lhe seguimento, é necessário submetê-lo através do
+nosso formulário de pós-venda: [endereço do mercado do cliente] — se não tiver conta, pode usar a
+opção de receber um link de acesso por email."
+
+Neste exemplo, substituir [endereço do mercado do cliente] pelo link correto da tabela acima. Um
+cliente espanhol recebe https://www.egitana.es/posvenda, um cliente francês recebe
+https://www.egitana.fr/posvenda.
