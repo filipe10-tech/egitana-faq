@@ -67,6 +67,24 @@ Não estão disponíveis em todos os produtos. Só indicar quando aplicável ao 
 Atenção ao mercado: em Espanha e França existe apenas Klarna; a FLOA Bank é só Portugal.
 Não aprovar crédito nem garantir aprovação em nome da entidade financeira.
 
+PAYPAL — MORADA DE ENTREGA
+Quando o pagamento é feito por PayPal, a encomenda é enviada OBRIGATORIAMENTE para a morada
+registada na conta PayPal do cliente. Não é possível enviar para outra morada.
+
+Se o cliente quiser receber noutra morada, tem duas opções:
+
+1. Cancelar a encomenda, alterar a morada na própria conta PayPal e fazer uma nova encomenda.
+2. Fazer uma nova encomenda escolhendo outro método de pagamento.
+
+Não existe forma de alterar a morada de entrega mantendo a encomenda paga por PayPal.
+
+QUANDO INFORMAR: SEMPRE que o PayPal for mencionado na resposta — quer seja o cliente a perguntar
+por ele, quer seja a Egitana a indicá-lo como opção de pagamento. Não esperar que o cliente levante
+a questão da morada.
+
+Dizê-lo antes da compra evita ter de cancelar depois. Ao explicar, manter tom prestável: é um
+procedimento do PayPal para segurança do pagamento, não uma limitação da Egitana.
+
 
 ################################################################
 # 2. PORTES E ENVIO GRATUITO
