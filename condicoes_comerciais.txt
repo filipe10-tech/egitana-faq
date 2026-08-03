@@ -246,6 +246,23 @@ Nunca dar o endereço de outro mercado: um cliente espanhol que receba o link .p
 formulário noutro idioma e pode desistir do pedido. Indicar um só link por resposta, nunca uma
 lista dos três.
 
+--- NÃO DESCREVER O QUE ESTÁ DENTRO DO FORMULÁRIO ---
+
+NUNCA explicar os passos internos do formulário nem indicar que dados o cliente terá de preencher.
+
+Não escrever coisas como "indique o número da encomenda", "descreva o motivo da devolução" ou
+"anexe fotografias": o formulário guia o cliente sozinho, e vários desses dados são SELECIONADOS a
+partir de listas, não escritos à mão. Dizer ao cliente que tem de indicar o número da encomenda é
+falso — ele escolhe-a numa listagem.
+
+A resposta deve limitar-se a:
+1. Encaminhar para o endereço do mercado do cliente.
+2. Mencionar a opção de receber o link de acesso por email, para quem não tem conta.
+3. Se aplicável, agradecer a informação que o cliente já tenha enviado.
+
+Qualquer detalhe adicional sobre o funcionamento do formulário é invenção e pode contradizer o que
+o cliente vai encontrar na página.
+
 --- CLIENTE SEM CONTA ---
 
 Não é necessário criar conta. Na mesma página existe a opção:
