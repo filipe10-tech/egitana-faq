@@ -8,7 +8,7 @@ Venda ou o FAQ da categoria — indicar condições diferentes das aqui listadas
 este documento.
 
 Secções: 1. Pagamentos · 2. Portes · 3. Prazos · 4. Produtos pesados e montagens · 5. Tax Free ·
-6. Processo de pós-venda (trocas, devoluções, garantias e danos)
+6. Processo de pós-venda (trocas, devoluções, garantias e danos) · 7. Retomas e material usado
 
 Nota: os Termos e Condições traduzidos para espanhol, francês e inglês estão desatualizados em
 matéria de pagamentos — listam métodos que só existem em Portugal. Não os uses como fonte.
@@ -228,6 +228,10 @@ NÃO APLICAR a: dúvidas técnicas, dificuldades de utilização, pedidos de or�
 fatura, encomendas não recebidas, cancelamentos ou questões de venda. Nesses casos, responder
 normalmente e NÃO mencionar o formulário de pós-venda.
 
+TAMBÉM NÃO APLICAR a pedidos de retoma ou de venda de material usado à Egitana — esses são
+sempre recusados e têm regras próprias na secção 7. Nunca encaminhar uma retoma para o
+formulário de pós-venda.
+
 --- O PROCESSO ---
 
 Nestes quatro casos, o cliente tem de abrir o pedido através do formulário de pós-venda.
@@ -295,3 +299,89 @@ opção de receber um link de acesso por email."
 Neste exemplo, substituir [endereço do mercado do cliente] pelo link correto da tabela acima. Um
 cliente espanhol recebe https://www.egitana.es/posvenda, um cliente francês recebe
 https://www.egitana.fr/posvenda.
+
+
+################################################################
+# 7. RETOMAS E COMPRA DE MATERIAL USADO
+################################################################
+
+--- REGRA ABSOLUTA: A EGITANA NÃO ACEITA RETOMAS ---
+
+A Egitana NÃO compra material usado e NÃO aceita retomas, em nenhuma circunstância.
+
+Isto é válido independentemente de:
+- o equipamento ter sido comprado na Egitana ou noutra loja
+- o equipamento estar novo, por estrear ou em estado impecável
+- a compra ser recente
+- o cliente se propor pagar a diferença para um produto mais caro
+- o valor envolvido, a marca ou o interesse comercial aparente do equipamento
+
+Não há avaliação, não há análise caso a caso, não há exceções. A resposta é sempre não.
+
+--- O QUE É UM PEDIDO DE RETOMA ---
+
+O cliente propõe entregar-nos um equipamento que já é dele, para o comprarmos, para abatermos no
+preço de outro produto ou para ficar como B-Stock na nossa loja.
+
+Formulações típicas:
+"aceitam retoma?" · "ficam com a minha guitarra e pago a diferença?" · "compram material usado?" ·
+"aceitam para B-Stock?" · "aceitam trade-in?" · "¿aceptan mi guitarra como parte de pago?" ·
+"reprise / rachat de mon matériel" · "do you take trade-ins?"
+
+NÃO CONFUNDIR com um pedido de troca ou devolução (secção 6), em que o cliente quer devolver ou
+substituir um artigo que COMPROU NA EGITANA. Esses são aceites nas condições normais. Na retoma o
+cliente quer VENDER-NOS equipamento dele — e isso não fazemos.
+
+--- COMO RECUSAR ---
+
+1. Agradecer o contacto e o interesse.
+2. Dizer com clareza que a Egitana não aceita retomas nem compra material usado. Uma resposta
+   ambígua faz o cliente insistir e voltar a escrever.
+3. Não pedir desculpa em excesso nem dramatizar: é uma política da empresa, não uma falha.
+4. Manter a porta aberta para a venda do produto em que o cliente está interessado.
+5. Se — e só se — o equipamento tiver sido comprado na Egitana, ver o bloco seguinte.
+
+O QUE NUNCA FAZER:
+1. NUNCA dizer que o pedido vai ser encaminhado para uma equipa, nem que alguém contactará o
+   cliente para avaliar. Não vai ser avaliado: isso é criar uma espera que termina em não.
+2. NUNCA dizer "não é um processo standard", "requer análise interna" ou equivalente. Dá a
+   entender que existe um caminho possível. Não existe.
+3. NUNCA indicar valores, estimativas, percentagens de desvalorização ou "quanto vale".
+4. NUNCA avaliar o estado do equipamento a partir de fotografias ("está impecável", "está como
+   novo"). Cria expectativa de valor num pedido que vai ser recusado.
+5. NUNCA fazer contas à diferença a pagar entre o equipamento do cliente e o produto pretendido.
+6. NUNCA encaminhar uma retoma para o formulário de pós-venda.
+
+--- EXCEÇÃO PARCIAL: EQUIPAMENTO COMPRADO NA EGITANA ---
+
+Não é uma exceção à retoma — a retoma continua recusada. É uma alternativa a oferecer.
+
+Se o equipamento foi comprado NA EGITANA e a compra é recente, o cliente pode ter direito a
+devolvê-lo nas condições normais de devolução (secção 6). Nesse caso, depois de recusar a retoma,
+mencionar essa possibilidade e encaminhar para o formulário de pós-venda, indicando o endereço do
+mercado do cliente (tabela da secção 6) e a opção de link de acesso por email.
+
+Condições para mencionar a devolução:
+- O cliente indicou que comprou o equipamento na Egitana. Se comprou noutra loja, ou se não é
+  claro onde comprou, NÃO mencionar a devolução.
+- Apresentar como possibilidade a confirmar, nunca como direito garantido. A devolução tem
+  condições próprias (prazo, artigo completo, sem sinais de utilização) que só são verificadas
+  quando o pedido é analisado.
+- Não afirmar que o caso do cliente está dentro do prazo. O rascunho não tem forma de o saber.
+- Não indicar o número de dias do prazo por iniciativa própria. Se o cliente perguntar
+  diretamente, o prazo consta dos Termos e Condições.
+
+Exemplo de abordagem — retoma de equipamento comprado NOUTRA LOJA (adaptar ao idioma do cliente):
+"Obrigado pelo seu contacto e pelo interesse na Ibanez. Infelizmente, a Egitana não aceita retomas
+nem compra equipamento usado, pelo que não nos é possível avançar com essa proposta. Continuamos
+naturalmente ao seu dispor para o ajudar na aquisição da nova guitarra e para esclarecer qualquer
+dúvida sobre as condições de pagamento disponíveis."
+
+Exemplo de abordagem — equipamento COMPRADO NA EGITANA e compra recente (adaptar ao idioma e ao
+endereço do mercado do cliente):
+"Obrigado pelo seu contacto. Infelizmente, a Egitana não aceita retomas nem compra equipamento
+usado, pelo que não nos é possível ficar com a sua guitarra. No entanto, uma vez que a comprou
+connosco recentemente, poderá eventualmente devolvê-la ao abrigo das nossas condições de
+devolução. Se for essa a sua intenção, o pedido é registado através do nosso formulário de
+pós-venda: [endereço do mercado do cliente] — se não tiver conta, pode usar a opção de receber um
+link de acesso por email. A equipa confirmará depois se a devolução é possível no seu caso."
